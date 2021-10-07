@@ -6,21 +6,22 @@
     <img class="ui mini circular image" src="../assets/elyse.png">
     <div class="content">
       <div class="ui sub header">Molly</div>
-      Coordinator-Jhon Orozco
+      Coordinador-Jhon Orozco 
     </div>
   </div>
   <div class="item">
     <img class="ui mini circular image" src="../assets/elyse.png">
     <div class="content">
       <div class="ui sub header">Elyse</div>
-      Oswaldo
+      Scrum Master - Oswaldo Quiñones
     </div>
   </div>
   <div class="item">
     <img src="../assets/elyse.png" class="ui mini circular image">
     <div class="content">
       <div class="ui sub header">Eve</div>
-      Project Manager-Gerardo Salcedo
+      Project Manager-Gerardo Salcedo Pereira
+
     </div>
   </div>
 </div>
