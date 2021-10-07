@@ -13,7 +13,7 @@
     <img class="ui mini circular image" src="../assets/elyse.png">
     <div class="content">
       <div class="ui sub header">Elyse</div>
-      Scrum Master - Oswaldo
+      Scrum Master - Oswaldo Quiñones
     </div>
   </div>
   <div class="item">
