@@ -98,7 +98,7 @@ export default {
         max-width: 300px !important;
         margin: 0 auto;
         margin-bottom: 10px;
-        imput.error{
+        input.error{
             border-color: #faa;
             background-color: #ffeded;
         }
