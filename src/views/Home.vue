@@ -6,14 +6,14 @@
     <img class="ui mini circular image" src="../assets/elyse.png">
     <div class="content">
       <div class="ui sub header">Molly</div>
-      Coordinator-Jhon Orozco
+      Coordinador-Jhon Orozco 
     </div>
   </div>
   <div class="item">
     <img class="ui mini circular image" src="../assets/elyse.png">
     <div class="content">
       <div class="ui sub header">Elyse</div>
-      Oswaldo
+      Scrum Master - Oswaldo
     </div>
   </div>
   <div class="item">
