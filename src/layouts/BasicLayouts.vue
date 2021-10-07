@@ -1,23 +1,25 @@
 <template>
   <div class="basic-layout">
-      <Menu />
-      
+    <Menu />
     <div class="ui container">
-        <slot />
+      <slot />
     </div>
   </div>
+
+  <Cart />
 </template>
 
 <script>
 import Menu from '../components/Menu.vue';
+import Cart from '../components/Cart/Cart.vue';
+
 export default {
-    name: "BasicLayouts",
-    components:{
-        Menu,
-    }
-}
+  name: 'BasicLayouts',
+  components: {
+    Menu,
+    Cart,
+  },
+};
 </script>
 
-<style>
-
-</style>
+<style></style>
