@@ -9,6 +9,14 @@
       Coordinator-Jhon Orozco
     </div>
   </div>
+<div class="ui horizontal list">
+  <div class="item">
+    <img class="ui mini circular image" src="../assets/elyse.png">
+    <div class="content">
+      <div class="ui sub header">Connor</div>
+      Developer Yohan
+    </div>
+  </div>
   <div class="item">
     <img class="ui mini circular image" src="../assets/elyse.png">
     <div class="content">
