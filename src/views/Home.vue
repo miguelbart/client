@@ -1,18 +1,38 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <BasicLayouts>
+    <h2>Este es el Home</h2>
+    <div class="ui horizontal list">
+  <div class="item">
+    <img class="ui mini circular image" src="../assets/elyse.png">
+    <div class="content">
+      <div class="ui sub header">Molly</div>
+      Coordinator
+    </div>
   </div>
+  <div class="item">
+    <img class="ui mini circular image" src="../assets/elyse.png">
+    <div class="content">
+      <div class="ui sub header">Elyse</div>
+      Developer
+    </div>
+  </div>
+  <div class="item">
+    <img src="../assets/elyse.png" class="ui mini circular image">
+    <div class="content">
+      <div class="ui sub header">Eve</div>
+      Project Manager
+    </div>
+  </div>
+</div>
+  </BasicLayouts>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-
+import BasicLayouts from '../layouts/BasicLayouts.vue';
 export default {
   name: 'Home',
   components: {
-    HelloWorld
-  }
+    BasicLayouts,
+  },
 }
 </script>
