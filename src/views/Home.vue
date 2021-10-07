@@ -6,21 +6,21 @@
     <img class="ui mini circular image" src="../assets/elyse.png">
     <div class="content">
       <div class="ui sub header">Molly</div>
-      Coordinator
+      Coordinator-Jhon
     </div>
   </div>
   <div class="item">
     <img class="ui mini circular image" src="../assets/elyse.png">
     <div class="content">
       <div class="ui sub header">Elyse</div>
-      Developer
+      Miguel Barragan
     </div>
   </div>
   <div class="item">
     <img src="../assets/elyse.png" class="ui mini circular image">
     <div class="content">
       <div class="ui sub header">Eve</div>
-      Project Manager
+      Project Manager-Gerardo
     </div>
   </div>
 </div>
