@@ -6,7 +6,7 @@
         <img class="ui mini circular image" src="../assets/jhon.png">
           <div class="content">
             <div class="ui sub header">Jhon</div>
-            Coordinador
+            Product Owner
             </div>
           </div>
       <div class="item">
