@@ -40,28 +40,129 @@
         </div>
         <br><br>
         <h1>Colecciones</h1>
-
+<h1>Uniforme de Gala</h1>
 <div class="ui three column grid">
   <div class="column">
     <div class="ui segment">
       <img src="../assets/bleiser.jpg">
       <div class="ui sub header">Blazers - Chaquetas</div>
+        <div class="ui two bottom attached buttons">
+    <div class="ui button">
+      <i class="add icon"></i>
+      Agregar
+    </div>
+    <div class="ui primary button">
+      <i class="play icon"></i>
+      Ver mas
+    </div>
+  </div>
     </div>
   </div>
   <div class="column">
     <div class="ui segment">
       <img src="../assets/shirt.jpg">
       <div class="ui sub header">Camisas</div>
+      
+  <div class="ui two bottom attached buttons">
+    <div class="ui button">
+      <i class="add icon"></i>
+      Agregar
+    </div>
+    <div class="ui primary button">
+      <i class="play icon"></i>
+      Ver mas
+    </div>
+  </div>
+
     </div>
   </div>
   <div class="column">
     <div class="ui segment">
       <img src="../assets/skirt.jpg">
       <div class="ui sub header">Faldas</div>
+        <div class="ui two bottom attached buttons">
+    <div class="ui button">
+      <i class="add icon"></i>
+      Agregar
+    </div>
+    <div class="ui primary button">
+      <i class="play icon"></i>
+      Ver mas
+    </div>
+  </div>
     </div>
   </div>
 </div>
 
+<h1>Uniforme deportivo</h1>
+<div class="ui three column grid">
+  <div class="column">
+    <div class="ui segment">
+      <img src="../assets/deportivo.jpeg">
+      
+      <div class="ui sub header">Camisetas</div>
+        <div class="ui two bottom attached buttons">
+    <div class="ui button">
+      <i class="add icon"></i>
+      Agregar
+    </div>
+    <div class="ui primary button">
+      <i class="play icon"></i>
+      Ver mas
+    </div>
+  </div>
+      </div>
+      <div class="ui segment">
+        <img src="../assets/deportivo.jpeg">
+        <div class="ui sub header">chaquetas</div>
+        <div class="ui two bottom attached buttons">
+    <div class="ui button">
+      <i class="add icon"></i>
+      Agregar
+    </div>
+    <div class="ui primary button">
+      <i class="play icon"></i>
+      Ver mas
+    </div>
+    </div>
+    </div>
+      
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img src="../assets/sudadera.jpeg">
+      <div class="ui sub header">Sudadera</div>
+      
+  <div class="ui two bottom attached buttons">
+    <div class="ui button">
+      <i class="add icon"></i>
+      Agregar
+    </div>
+    <div class="ui primary button">
+      <i class="play icon"></i>
+      Ver mas
+    </div>
+  </div>
+
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img src="../assets/camiseta_sudadera.jpeg">
+      <div class="ui sub header">Pantalonetas</div>
+        <div class="ui two bottom attached buttons">
+    <div class="ui button">
+      <i class="add icon"></i>
+      Agregar
+    </div>
+    <div class="ui primary button">
+      <i class="play icon"></i>
+      Ver mas
+    </div>
+  </div>
+    </div>
+  </div>
+</div>
   
         <h1>Últimos productos</h1>
     <div class="ui grid">
