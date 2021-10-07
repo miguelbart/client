@@ -21,7 +21,6 @@
     <div class="content">
       <div class="ui sub header">Eve</div>
       Project Manager-Gerardo Salcedo Pereira
-
     </div>
   </div>
 </div>
