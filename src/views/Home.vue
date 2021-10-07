@@ -13,7 +13,7 @@
   <div class="item">
     <img class="ui mini circular image" src="../assets/elyse.png">
     <div class="content">
-      <div class="ui sub header">Molly</div>
+      <div class="ui sub header">Connor</div>
       Developer-Yoan 
     </div>
   </div>
