@@ -5,7 +5,7 @@
         <router-link class="item" to="/">
           <img
             class="ui small image"
-            src="../assets/logo.png"
+            src="../assets/rmc7.png"
             alt="Ecommerce"
           />
         </router-link>
