@@ -20,7 +20,7 @@
     <img src="../assets/elyse.png" class="ui mini circular image">
     <div class="content">
       <div class="ui sub header">Eve</div>
-      Project Manager-Gerardo Salcedo P
+      Project Manager-Gerardo Salcedo Pereira
     </div>
   </div>
 </div>
